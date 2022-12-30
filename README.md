@@ -10,3 +10,8 @@
 - ⚡ Eğlencelerim: Kitap okumak|Kod yazmak|Yeni bilgiler edinmek...
 
 [![Discord Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](www.google.com)
+
+
+
+
+<img src="https://camo.githubusercontent.com/678e7ea5c4e63f5b009013272b9e09b7505c7bf12b1205218c12df5264bb9933/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3330383332333035363539323438363432303f6c6f676f3d646973636f7264" alt="chat on Discord" data-canonical-src="https://img.shields.io/discord/308323056592486420?logo=discord" style="max-width: 100%;">
