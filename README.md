@@ -26,3 +26,6 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-quare&labelColor=1ED760&logo=spotify&logoColor=white&link=link)](link)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADINIZ&show_icons=true)
+
+
+https://discordturkiye.com/konular/github-icin-mukemmel-ozellik.5038/
