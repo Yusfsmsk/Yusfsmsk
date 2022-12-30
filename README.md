@@ -9,3 +9,4 @@
 - 😄 Cinsiyetim: Erkek
 - ⚡ Eğlencelerim: Kitap okumak|Kod yazmak|Yeni bilgiler edinmek...
 
+[![Discord Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
