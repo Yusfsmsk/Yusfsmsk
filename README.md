@@ -15,7 +15,7 @@
 # Selam dostlarım
 - Adım Yusuf 17 yaşındayım
 - 1 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, swift]
-- Discord adresim: YUSUF_SMSK#0666, [discord.gg/6yqQFErEUx](discord.gg/6yqQFErEUx)
+- Discord adresim: YUSUF_SMSK#0666, [discord sunucum](discord.gg/6yqQFErEUx)
 - Web Sitem: (şu anlık yok)
 - Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
 - Everything you can imagine is real -
